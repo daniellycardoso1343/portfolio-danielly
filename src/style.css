@@ -1,0 +1,12 @@
+@import "tailwindcss";
+@import "tailwindcss";
+
+@layer components {
+  .tech-badge {
+    @apply px-4 py-2 rounded-lg bg-violet-50 text-violet-700 text-sm font-medium;
+  }
+  .project-badge {
+  @apply px-3 py-1 rounded-md bg-gray-800 text-gray-300 text-xs font-medium;
+}
+}
+
