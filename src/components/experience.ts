@@ -66,7 +66,7 @@ export function createExperience(): string {
             </span>
 
             <h3 class="text-lg sm:text-xl font-bold text-gray-900 mt-2">
-              Jovem Aprendiz - Tecnologia da Informação
+              Tecnologia da Informação
             </h3>
 
             <p class="text-gray-500 text-sm sm:text-base font-medium mt-1">
