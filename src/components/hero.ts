@@ -46,8 +46,8 @@ export function createHero(): string {
 
           <p class="text-base sm:text-lg text-gray-600 leading-relaxed mb-8 max-w-2xl">
             Desenvolvo soluções web e estou sempre em busca de novos conhecimentos.
-            Tenho interesse em tecnologia, desenvolvimento de sistemas e criação
-            de aplicações que resolvam problemas reais.
+            Tenho interesse em tecnologia, desenvolvimento de sistemas, criação
+            de aplicações e suporte de usuários.
           </p>
 
           <div class="flex flex-col sm:flex-row flex-wrap gap-3 sm:gap-4">
