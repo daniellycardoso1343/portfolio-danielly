@@ -41,7 +41,7 @@ export function createHero(): string {
           </h1>
 
           <h2 class="text-xl sm:text-2xl md:text-3xl font-semibold text-gray-700 mb-6">
-            Desenvolvedora Full Stack
+            Desenvolvedora
           </h2>
 
           <p class="text-base sm:text-lg text-gray-600 leading-relaxed mb-8 max-w-2xl">
@@ -69,7 +69,7 @@ export function createHero(): string {
 
             <a
               href="#contato"
-              class="w-full sm:w-auto text-center px-6 py-3 text-gray-700 font-medium hover:text-violet-700 transition"
+              class="w-full sm:w-auto text-center px-6 py-3 border border-violet-600 text-violet-700 rounded-lg font-medium hover:bg-violet-50 transition"
             >
               Entre em contato
             </a>

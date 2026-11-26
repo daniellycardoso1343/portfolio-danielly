@@ -34,12 +34,12 @@ export function createNavbar(): string {
       bg-white md:bg-transparent border-b md:border-0 border-gray-100
       px-6 py-6 md:p-0 text-sm font-medium text-gray-600 z-50"
     >
-      <li><a href="#inicio" class="hover:text-violet-600 transition-colors">Início</a></li>
-      <li><a href="#sobre" class="hover:text-violet-600 transition-colors">Sobre</a></li>
-      <li><a href="#tecnologias" class="hover:text-violet-600 transition-colors">Tecnologias</a></li>
-      <li><a href="#projetos" class="hover:text-violet-600 transition-colors">Projetos</a></li>
-      <li><a href="#experiencia" class="hover:text-violet-600 transition-colors">Experiência</a></li>
-      <li><a href="#contato" class="hover:text-violet-600 transition-colors">Contato</a></li>
+      <li><a href="#inicio" class="hover:text-violet-600 transition-colors text-[1.25rem]">Início</a></li>
+      <li><a href="#sobre" class="hover:text-violet-600 transition-colors text-[1.25rem]">Sobre</a></li>
+      <li><a href="#tecnologias" class="hover:text-violet-600 transition-colors text-[1.25rem]">Tecnologias</a></li>
+      <li><a href="#projetos" class="hover:text-violet-600 transition-colors text-[1.25rem]">Projetos</a></li>
+      <li><a href="#experiencia" class="hover:text-violet-600 transition-colors text-[1.25rem]">Experiência</a></li>
+      <li><a href="#contato" class="hover:text-violet-600 transition-colors text-[1.25rem]">Contato</a></li>
     </ul>
 
 
